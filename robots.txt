@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shop6.doobagency.com/sitemap.xml
